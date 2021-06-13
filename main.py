@@ -24,7 +24,7 @@ BG_RGB = WHITE # (217, 217, 217)
 
 # load images
 apple_image = pygame.transform.scale(
-    pygame.image.load(os.path.join("assets", "red_apple.png")), (80, 80)
+    pygame.image.load(os.path.join("assets", "apple.png")), (80, 80)
 )
 apple_group = []
 static_circle_group = []
